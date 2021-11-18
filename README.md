@@ -1,6 +1,7 @@
-<h1> <strong> HI! THERE 👩🏽 WELCOME TO MY GITHUB PROFILE </strong><img src="https://img.icons8.com/material-rounded/24/000000/github.png"/> </h1>  
+<h1> <strong> HI! THERE </strong></h1> 
+ <h2> 🙋 WELCOME TO MY GITHUB PROFILE <img src="https://img.icons8.com/material-rounded/24/000000/github.png"/> </h2>  
 <br>
- <h2> :brazil:  Fell free to explore mY personal and publical code library 👩🏽‍💻</h1>
+ <h2> 📂 Fell free to explore mY personal and publical code library 👩🏽‍💻</h1>
  
  <p> 👩🏽‍🔬 I'm the part of the Chemical Engineering College</p>
  <p> ✍🏽📚 I'm currenly learning  Front-end & Back-end and Ux Design  </p>
